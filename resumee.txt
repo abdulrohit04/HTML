@@ -1,0 +1,186 @@
+<html>
+<head>
+	<title>RESME</title>
+</head>
+<body>
+						<b>DIGITAL RESUME</b>
+						<br>Police para,
+						<br>New garia,
+						<br>Kolkata,WB
+						<br>pin#12345
+						<img src="D:\Documents" width="80" height="200">
+						<hr>
+						<b><u>PERSONAL  INFORMATIONS</u></b>
+						<br>
+						<br>
+			<table>
+					<tr>
+						<td>Name</td>
+						<td>:</td>
+						<td>Abdul Rohit</td>
+					</tr>
+					<tr>
+						<td>Father Name</td>
+						<td>:</td>
+						<td>Abul Basar</td>
+					</tr>
+					<TR>
+						<TD>Mother Name</TD>
+						<TD>:</TD>
+						<TD>Nachhia Begum</TD>
+						</TR>
+					<tr>
+						<td>DOB</td>
+						<td>:</td>
+						<td>15/01/1999</td>
+					</tr>
+					<tr>
+						<td>Sex</td>
+						<TD>:</TD>
+						<td>Male</td>
+					</tr>
+					<tr>
+						<td>Martial Status</td>
+						<TD>:</TD>
+						<td>Unmarried</td>
+					</tr>
+					<tr>
+						<td>Place of Birth</td>
+						<td>:</td>
+						<td>Salar</td>
+					</tr>
+					<TR>
+						<TD>Height</TD>
+						<TD>:</TD>
+						<TD>5'5"</TD>
+					</TR>
+					<TR>
+						<TD>Age</TD>
+						<td>:</td>
+						<td>21</td>
+					</TR>
+					<tr>
+						<td>Parent Address</td>
+						<td>:</td>
+						<td>Salinda,Salar,MSD,WB</td>
+					</tr>
+					<tr>
+						<td>Language</td>
+						<td>:</td>
+						<td>English,Bengali,Hindi</td>
+					</tr>
+			</table>
+						<br>
+						<br>
+						<b><u>QUALIFICATIONS</u></b>
+						<br>
+						<br>
+			<table>
+				<tr>
+					<td>*Secondary School</td>
+					<td>:</td>
+					<td>Saraswati Devi Public School</td>
+				</tr>
+					<tr>
+						<td>X Marks</td>
+						<td>:</td>
+						<td>91%</td>
+					</tr>
+					<tr>
+						<td>Address</td>
+						<td>:</td>
+						<td>Ghanashyampur,Kandi,Murshidabad,WB</td>
+					</tr>
+					<tr>
+						<td>*Higher Secondary School</td>
+						<td>:</td>
+						<td>Kashinath Lahiri Public School</td>
+					</tr>
+					<tr>
+						<td>XII Marks</td>
+						<td>:</td>
+						<td>72.6%</td>
+					</tr>
+					<tr>
+						<td>Address</td>
+						<td>:</td>
+						<td>Burnpur,Asansol,Bardhawan,WB</td>
+					</tr>
+					<tr>
+						<td>*UG College</td>
+						<td>:</td>
+						<td>Netaji Subhash Engineering College</td>
+					<tr>
+						<td>University</td>
+						<td>:</td>
+						<td>MAKAUT</td>
+					</tr>
+					<tr>
+						<td>Profession</td>
+						<td>:</td>
+						<td>Persuing B.Tech</td>
+					</tr>	
+					<tr>
+						<td>Address</td>
+						<td>:</td>
+						<td>New Garia,Kolkata,WB</td>
+					</tr>
+					</table>
+						<br>
+						<br>
+						<b><u>SKILLS & INTRESTS</u></b>
+							<br>*Computer literate(programming,Lay outing,Web development,Graphics disigning)
+							<br>*Knowledge on C++,Python,Ethical Hacking
+							<br>*Having NCC "C" certificate
+							<br>*Distrct level volley player
+							<br>
+							<br>
+							<b><u>HOBBIES</u></b>
+			<table>
+					<tr>
+						<td>*Reading Books,</td>
+					</tr>
+					<tr>
+						<td>*Watching News,</td>
+					</tr>
+					<tr>
+						<td>*Playing Football,</td>
+					</tr>
+					<tr>
+						<td>*Listening Musics.</td>
+					</tr>
+			</table>
+						<br>
+						<br>
+							<b><u>CONTACT INFORMATIONS</u></b>
+						<br>
+						<br>
+			<table>
+					<tr>
+						<td>Ph no</td>
+						<td>:</td>
+						<td>+916294353181</td>
+					</tr>
+					<tr>
+						<td>Email</td>
+						<td>:</td>
+						<td>abdulrohit04@gmail.com</td>
+					</tr>
+					<tr>
+						<td>Linkedin</td>
+						<td>:</td>
+						<td>abdulrohit04</td>
+					</tr>
+					<tr>
+						<td>Instagram</td>
+						<td>:</td>
+						<td>_abdul_rohit_</td>
+					</tr>
+					<tr>
+						<td>Facebook</td>
+						<td>:</td>
+						<td>Abdul Rohit</td>
+					</tr>
+			</table>
+	</body>
+</html>
